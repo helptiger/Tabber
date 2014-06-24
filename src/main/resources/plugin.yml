@@ -1,0 +1,4 @@
+main: ${main.class}
+version: ${project.version}
+author: maciekmm
+name: ${project.name}
